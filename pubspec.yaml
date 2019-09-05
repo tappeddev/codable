@@ -1,0 +1,12 @@
+name: codable
+description: A starting point for Dart libraries or applications.
+# version: 0.0.1
+# homepage: https://www.tikkr.app
+# author: sschaller <ste.schaller@gmx.de>
+
+environment:
+  sdk: '>=2.4.0 <3.0.0'
+
+dev_dependencies:
+  pedantic: ^1.8.0+1
+  test: ^1.6.0
